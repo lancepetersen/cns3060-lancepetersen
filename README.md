@@ -1,4 +1,5 @@
-cns3060-lancepetersen
+Lance Petersen
 =====================
 
-This is the private 3060 repository for lancepetersen
+CS3060-601
+petersenlance@yahoo.com
